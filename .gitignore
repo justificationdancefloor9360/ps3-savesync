@@ -1,0 +1,25 @@
+# Build artifacts (PSL1GHT)
+build/
+*.elf
+*.self
+*.fake.self
+*.pkg
+*.gnpdrm.pkg
+*.map
+*.o
+*.d
+
+# Generated at build time
+source/http/embedded_assets.h
+
+# Runtime / logs
+*.log
+
+# Editor / OS
+.DS_Store
+*.swp
+*.swo
+
+# Stray binary that earlier `make` runs left at the project root
+/savesync
+!/source/savesync/
